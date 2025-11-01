@@ -1,0 +1,4 @@
+NIM	Nama	Asal
+164241025	Ahnaf Umar	Surabaya
+164241023	Timothy Andreas	Jakarta
+164241101	Steven Malow Purba	Bekasi
